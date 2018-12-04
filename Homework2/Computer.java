@@ -1,6 +1,6 @@
 package homework2;
 
-public class Computer {
+public class Computer {//updated class pushing to github
 	
 	
 
